@@ -1,4 +1,4 @@
-# Magic Forms for OctoberCMS
+# Magic Forms for OctoberCMS v.3 (fork)
 Create easy (and almost magic) AJAX forms.
 
 
@@ -31,7 +31,7 @@ So, the objective was to find a way to just put the HTML elements on the page, s
 
 
 
-## Documentation
+## Documentation original developer
 Checkout our docs at:
 > https://skydiver.github.io/october-plugin-forms/
 # MagicForm-OC3
